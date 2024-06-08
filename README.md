@@ -1,5 +1,5 @@
 # drvrestore
-A tool that makes restores a backup of all your drivers.
+A tool that restores a backup of all your drivers.
 
 - For driver backup, use my another tool called [drvbackup](https://github.com/lucmsilva651/drvbackup/).
 
